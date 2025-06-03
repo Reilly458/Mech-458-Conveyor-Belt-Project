@@ -5,3 +5,6 @@ Design and implement a sorting system to sort an unknown quantity of items of di
 
 ## Result:
 Our fasted time was 45 seconds with 1 error. The link for a video of this can be found in the repo file named "Final Testing Video".
+
+![](https://github.com/user-attachments/assets/51cc41e3-6834-4b60-b9c6-1cdcae71a936)
+
